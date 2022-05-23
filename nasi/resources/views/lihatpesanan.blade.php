@@ -41,4 +41,9 @@
         </table>
     </div>
 </div>
+<style>
+   body {
+    background-color: 	##F5FFFA;
+   }
+ </style>
 @endsection
